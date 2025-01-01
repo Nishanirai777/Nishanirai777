@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nisha Rai</h1>
 <h3 align="center">🌱 I’m currently learning ...</h3>
+<img align="center" height="150" "  src="https://i.imgflip.com/65efzo.gif"  />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishanirai777&label=Profile%20views&color=0e75b6&style=flat" alt="nishanirai777" /> </p>
 
@@ -31,7 +33,17 @@
 
 
 
+###
+
+
+
+###
+
+
+###
+
+
+
+
+###
  
-<img src="https://github-readme-stats.vercel.app/api?username=Nishanirai777" />
- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Nishanirai777"/>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishanirai777&layout=compact)](https://github.com/Nishanirai777/github-readme-stats&layout=compact)
