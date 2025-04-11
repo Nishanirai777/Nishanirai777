@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nisha Rai</h1>
+<h1 align="center">Hi 👋 I'm Nisha Rai</h1>
 <h3 align="center">🌱 I’m currently learning ...</h3>
 <img align="center" height="150" "  src="https://i.imgflip.com/65efzo.gif"  />
 
