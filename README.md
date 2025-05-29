@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishanirai777" alt="nishanirai777" /></a> </p>
 
-- 🌱 I’m currently learning **Frontend Developer**
+- 🌱 I’m currently learning 
 
 - 💬 Ask me about **Html ,Css ,React**
 
